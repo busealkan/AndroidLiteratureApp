@@ -1,6 +1,6 @@
 ## Servet-i Fünun App 
 <p align="center"><img src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/app/src/main/res/drawable/logo.jpg"/></p>
-## Bu projede Servet-i Fünun dönemindeki sanatçılar recyler viewlerde card itemlar kullanılarak listelenmiştir ayrıca detay sayfamızda hayatları,edebi kişilikleri ve bazı   eserleri hakkında bilgiler verilmiştir.
+Bu projede Servet-i Fünun dönemindeki sanatçılar recyler viewlerde card itemlar kullanılarak listelenmiştir ayrıca detay sayfamızda hayatları,edebi kişilikleri ve bazı   eserleri hakkında bilgiler verilmiştir.
 ## Outputs
 <p><img style="float:left;height:496px;width:244px;margin-left:10px;" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E1_splash.png"/></p>
 <p><img style="float:left;height:496px;width:244px;margin-left:10px;" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E2_liste.png"/></p>
