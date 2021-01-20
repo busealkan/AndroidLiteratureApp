@@ -3,8 +3,9 @@
 Bu projede Servet-i Fünun dönemindeki sanatçılar recyler viewlerde card itemlar kullanılarak listelenmiştir ayrıca detay sayfamızda hayatları,edebi kişilikleri ve bazı   eserleri hakkında bilgiler verilmiştir.
 
 ## Outputs
-<p style="float:left;"><img style="height:496px;width:244px;margin-left:10px;" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E1_splash.png"/></p>
+<p style="float:left;"><img style="height:296px;width:244px;margin-left:10px;" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E1_splash.png"/></p>
 <p style="float:left;"><img style="height:496px;width:244px;margin-left:10px;" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E2_liste.png"/></p>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <p style="float:left;"><img style="height:496px;width:244px;margin-left:10px;" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E3_detay.png"/></p>
 <p style="float:left;"><img style="height:222px;width:270px;margin-left:10px;" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_internet.png"/><p> 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
