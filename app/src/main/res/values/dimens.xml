@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="logoBoyut">250dp</dimen>
+    <dimen name="yaziBoyut">25sp</dimen>
+    <dimen name="yaziKucukBoyut">14sp</dimen>
+    <dimen name="yaziBuyukBoyut">40sp</dimen>
+    <dimen name="imgBannerBoyut">180dp</dimen>
+    <dimen name="matchConstraint">0dp</dimen>
+    <dimen name="cardMargin">16dp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="tarihMargin">1dp</dimen>
+    <dimen name="eserMargin">3dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="resimGenislik">110dp</dimen>
+    <dimen name="resimUzunluk">180dp</dimen>
+    <dimen name="buyukResimUzunluk">520dp</dimen>
+    <dimen name="cardTextBoyut">230dp</dimen>
+    <dimen name="imgKapakBoyut">250dp</dimen>
+    <dimen name="yaziAciklamaBoyut">18sp</dimen>
+    <dimen name="detayMargin">11dp</dimen>
+    <dimen name="detayPadding">7dp</dimen>
+    <dimen name="detayBaslikBoyut">30sp</dimen>
+    <dimen name="detayAltBaslikBoyut">25sp</dimen>
+</resources>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">H5190059_BuseAlkanFinal</string>
+    <string name="alertTitle">İnternet Bağlantınız Yok</string>
+    <string name="alertMessage">Uygulamayı kullanmak için internete bağlanın.</string>
+    <string name="alertNegativeButon">Kapat</string>
+    <string name="alertPozitiveButon">İnterneti Aç</string>
+
+    <string name="yazarAdiTools">Tevfik Fikret</string>
+    <string name="yazarDogumTarihiTools">(1867 - 1915)</string>
+    <string name="yazarAciklamaTools">Servet-i Fünun şiirinin en önemli temsilcisidir.</string>
+    <string name="yazarEserlerTools">Rübab-ı Şikeste, Rübabın Cevabı, Haluk’un Defteri, Şermin</string>
+    <string name="yazarEserler">Bazı Eserleri:</string>
+
+    <string name="alertCikisTitle">Çıkış Yap?</string>
+    <string name="alertCikisMessage">Uygulamadan Çıkış Yapılsın Mı?</string>
+    <string name="alertCikisNegativeButon">Çıkış</string>
+    <string name="alertCikisPozitifButon">İptal</string>
+
+    <string name="detayBaslikTools">TEVFİK FİKRET</string>
+    <string name="hayatiBaslikTools">Hayatı:</string>
+    <string name="edebiKisiligiBaslikTools">Edebi Kişiliği:</string>
+    <string name="eserleriBaslikTools">Bazı Eserleri:</string>
+    <string name="hayatiAciklamaTools">Tevfik Fikret, 24 Aralık 1867 tarihinde İstanbul’da dünyaya geldi. Babası Hüseyin Efendi, annesi ise Hatice Refia Hanım’dır. Küçük yaşta annesini kaybetti. Babası ise annesinin vefatından kısa bir süre sonra Arabistan’a sürgüne gönderildi.</string>
+    <string name="edebiKisiligiAciklamaTools">Kendi akımının ve Türk edebiyatının en önemli şairlerindendir. Aruz ölçüsünü Türkçeye başarıyla uygulamıştır...</string>
+    <string name="eserleriAciklamaTools">Rubab-ı Şikeste, Halukun Defteri, Rubab-ın Cevabı, Tarih-i Kadim, Doksan Beşe Doğru, Şermin</string>
+
+    <string name="progressMessage">Lütfen bekleyiniz..</string>
+
+    <string name="logRetrofit">RETROFIT</string>
+    <string name="logOnNext">onNext :</string>
+    <string name="logOnError">onError :</string>
+    <string name="logOnComplete">onComplete :</string>
+    <string name="logOnSubscribe">onSubscribe :</string>
+</resources>

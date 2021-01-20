@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/imgYazarLogo"
+                android:layout_width="@dimen/resimGenislik"
+                android:layout_height="@dimen/resimUzunluk"
+                android:layout_marginStart="@dimen/cardMargin"
+                android:layout_marginTop="@dimen/cardMargin"
+                android:layout_marginBottom="@dimen/cardMargin"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:srcCompat="@tools:sample/avatars" />
+
+            <TextView
+                android:id="@+id/txtYazarAdi"
+                android:layout_width="@dimen/cardTextBoyut"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/margin"
+                android:textColor="@color/logoRengi"
+                android:textSize="@dimen/yaziBoyut"
+                android:textStyle="bold"
+                app:layout_constraintStart_toEndOf="@+id/imgYazarLogo"
+                app:layout_constraintTop_toTopOf="@+id/imgYazarLogo"
+                tools:text="@string/yazarAdiTools" />
+
+            <TextView
+                android:id="@+id/txtYazarDogumTarihi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/tarihMargin"
+                android:textSize="@dimen/yaziKucukBoyut"
+                app:layout_constraintStart_toStartOf="@+id/txtYazarAdi"
+                app:layout_constraintTop_toBottomOf="@+id/txtYazarAdi"
+                tools:text="@string/yazarDogumTarihiTools" />
+
+            <TextView
+                android:id="@+id/txtYazarAciklama"
+                android:layout_width="@dimen/cardTextBoyut"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin"
+                android:textSize="@dimen/yaziKucukBoyut"
+                app:layout_constraintStart_toStartOf="@+id/txtYazarDogumTarihi"
+                app:layout_constraintTop_toBottomOf="@+id/txtYazarDogumTarihi"
+                tools:text="@string/yazarAciklamaTools" />
+
+            <TextView
+                android:id="@+id/txtBaziEserler"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin"
+                android:text="@string/yazarEserler"
+                android:textColor="@color/logoRengi"
+                android:textSize="@dimen/yaziKucukBoyut"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="@+id/txtYazarAciklama"
+                app:layout_constraintTop_toBottomOf="@+id/txtYazarAciklama" />
+
+            <TextView
+                android:id="@+id/txtYazarEserler"
+                android:layout_width="@dimen/cardTextBoyut"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/eserMargin"
+                android:textSize="@dimen/yaziKucukBoyut"
+                app:layout_constraintStart_toStartOf="@+id/txtBaziEserler"
+                app:layout_constraintTop_toBottomOf="@+id/txtBaziEserler"
+                tools:text="@string/yazarEserlerTools" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

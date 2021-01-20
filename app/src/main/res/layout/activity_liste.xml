@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="buse_alkan_final.buse_alkan_final.activities.ListeActivity">
+
+    <ImageView
+        android:id="@+id/imgBanner"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/imgBannerBoyut"
+        android:scaleType="fitStart"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/banner" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rcvYazarlar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/matchConstraint"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgBanner"
+        tools:layout_editor_absoluteX="120dp"
+        tools:listitem="@layout/cardview_yazar" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
