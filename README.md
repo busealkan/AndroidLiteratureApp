@@ -1,12 +1,12 @@
 ## Servet-i Fünun App 
 <p align="center"><img src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/app/src/main/res/drawable/logo.jpg"/></p>
-## Bu projede Servet-i Fünun dönemindeki sanatçılar recyler viewlerde card itemlar kullanılarak listelenmiştir ayrıca detay sayfamızda hayatları,edebi kişilikleri ve bazı ##eserleri hakkında bilgiler verilmiştir.
+## Bu projede Servet-i Fünun dönemindeki sanatçılar recyler viewlerde card itemlar kullanılarak listelenmiştir ayrıca detay sayfamızda hayatları,edebi kişilikleri ve bazı eserleri hakkında bilgiler verilmiştir.
 ## Outputs
-<p style="float:left;"><img src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E1_splash.png"/></p>
-<p style="float:left;"><img src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E2_liste.png"/></p>
-<p style="float:left;"><img src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E3_detay.png"/></p>
-<p style="float:left;"><img src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_internet.png"/></p>
-<p style="float:left;"><img src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_cikis.png"/></p>
+<p style="float:left;"><img height="400" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E1_splash.png"/></p>
+<p style="float:left;"><img height="400" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E2_liste.png"/></p>
+<p style="float:left;"><img height="400" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E3_detay.png"/></p>
+<p style="float:left;"><img height="400" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_internet.png"/></p>
+<p style="float:left;"><img height="400" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_cikis.png"/></p>
 
 ## Clean Simple Architecture
 <p style="float:left;"><img src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/images/mvc.png"/></p>
