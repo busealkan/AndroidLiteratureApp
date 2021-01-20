@@ -4,12 +4,10 @@ Bu projede Servet-i Fünun dönemindeki sanatçılar recyler viewlerde card item
 
 ## Outputs
 <p style="float:left;"><img width="244px"; src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E1_splash.png"/></p>
-<p style="float:left;"><img style="height:496px;width:244px;margin-left:10px;" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E2_liste.png"/></p>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<p style="float:left;"><img style="height:496px;width:244px;margin-left:10px;" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E3_detay.png"/></p>
-<p style="float:left;"><img style="height:222px;width:270px;margin-left:10px;" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_internet.png"/><p> 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<p style="float:left;"><img style="height:222px;width:270px;margin-left:10px;margin-top:37px;" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_cikis.png"/></p>
+<p style="float:left;"><img width="244px"; src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E2_liste.png"/></p>
+<p style="float:left;"><img width="244px"; src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E3_detay.png"/></p>
+<p style="float:left;"><img width="244px"; src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_internet.png"/><p> 
+<p style="float:left;"><img width="244px"; src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_cikis.png"/></p>
 
 ## Clean Simple Architecture
 <p><img style="float:left;height:300px;width:300px;" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/images/mvc.png"/></p>
