@@ -2,11 +2,11 @@
 <p align="center"><img src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/app/src/main/res/drawable/logo.jpg"/></p>
 Bu projede Servet-i Fünun dönemindeki sanatçılar recyler viewlerde card itemlar kullanılarak listelenmiştir ayrıca detay sayfamızda hayatları,edebi kişilikleri ve bazı eserleri hakkında bilgiler verilmiştir.
 ## Outputs
-<p><img style="float:left;height:596px;width:374px;margin-left:5px;" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E1_splash.png"/></p>
-<p><img style="float:left;height:596px;width:374px;margin-right:10px;" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E2_liste.png"/></p>
-<p><img style="float:left;height:596px;width:374px;" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E3_detay.png"/></p>
-<p><img style="float:left;height:322px;width:150px;" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_internet.png"/><p>
-<p><img style="float:left;height:322px;width:150px;" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_cikis.png"/></p>
+<p><img style="float:left;height:496px;width:244px;margin-left:10px;" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E1_splash.png"/></p>
+<p><img style="float:left;height:496px;width:244px;margin-left:10px;" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E2_liste.png"/></p>
+<p><img style="float:left;height:496px;width:244px;margin-left:10px;" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E3_detay.png"/></p>
+<p><img style="float:left;height:222px;width:270px;margin-left:10px;" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_internet.png"/><p><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<p><img style="float:left;height:222px;width:270px;margin-left:10px;margin-top:37px;" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_cikis.png"/></p>
 
 ## Clean Simple Architecture
 <p><img style="float:left;height:300px;width:300px;" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/images/mvc.png"/></p>
