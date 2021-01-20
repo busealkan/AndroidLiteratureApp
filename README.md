@@ -9,7 +9,7 @@ Bu projede Servet-i Fünun dönemindeki sanatçılar recyler viewlerde card item
 <p><img style="float:left;height=200px;width=400px;" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_cikis.png"/></p>
 
 ## Clean Simple Architecture
-<p style="float:left;"><img src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/images/mvc.png"/></p>
+<p><img style="float:left;height=400px;width=400px;" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/images/mvc.png"/></p>
 
 ## Libraries and Tools 
 <li><a href="https://square.github.io/retrofit/">Retrofit2</a></li>
