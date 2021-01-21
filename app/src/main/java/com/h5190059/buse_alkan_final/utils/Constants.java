@@ -13,7 +13,5 @@ public class Constants {
     public  static String PREF_ALERT_INTERNET = "ALERT_INTERNET";
     public  static String PREF_ALERT_CIKIS = "ALERT_CIKIS";
 
-    public  static int PREF_TIMER_INTERVAL=1000;
-    public  static int PREF_TIMER_MILLIS_IN_FUTURE=3000;
 
 }

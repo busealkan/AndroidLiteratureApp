@@ -34,7 +34,9 @@ public class SplashActivity extends AppCompatActivity {
     }
 
     private void zamanlayici(){
-        CountDownTimer countDownTimer = new CountDownTimer(Constants.PREF_TIMER_MILLIS_IN_FUTURE, Constants.PREF_TIMER_INTERVAL) {
+        int prefTimerMillisInFuture =Integer.parseInt(getResources().getString(R.string.prefTimerMillisInFuture));
+        int prefTimerInterval= Integer.parseInt(getResources().getString(R.string.prefTimerInterval));
+        CountDownTimer countDownTimer = new CountDownTimer(prefTimerMillisInFuture,prefTimerInterval) {
             @Override
             public void onTick(long millisUntilFinished) {
             }

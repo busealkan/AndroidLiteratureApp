@@ -31,4 +31,8 @@
     <string name="logOnError">onError :</string>
     <string name="logOnComplete">onComplete :</string>
     <string name="logOnSubscribe">onSubscribe :</string>
+
+    <string name="prefTimerInterval">1000</string>
+    <string name="prefTimerMillisInFuture">3000</string>
+
 </resources>
