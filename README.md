@@ -4,11 +4,11 @@ Bu projede Servet-i Fünun dönemindeki sanatçılar recyler viewlerde card item
 
 ## Outputs
 <p>
-  <img height="400" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E1_splash.png"/>
-  <img height="400" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E2_liste.png"/>
-  <img height="400" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E3_detay.png"/>
-  <img height="400" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_internet.png"/>
-  <img height="400" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_cikis.png"/>
+  <img height="400" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E1_splash.png" alt="SS1"/>
+  <img height="400" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E2_liste.png" alt="SS2"/>
+  <img height="400" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E3_detay.png" alt="SS3"/>
+  <img height="400" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_internet.png" alt="SS4"/>
+  <img height="400" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_cikis.png" alt="SS5"/>
 </p>
 
 
