@@ -18,6 +18,7 @@ import com.h5190059.buse_alkan_final.network.Service;
 import com.h5190059.buse_alkan_final.utils.AlertUtil;
 import com.h5190059.buse_alkan_final.utils.Constants;
 import com.h5190059.buse_alkan_final.utils.ObjectUtil;
+import com.h5190059.buse_alkan_final.utils.PrefUtil;
 import com.h5190059.buse_alkan_final.utils.ProgressUtil;
 
 import java.util.ArrayList;
@@ -111,20 +112,8 @@ public class ListeActivity extends AppCompatActivity {
 
 
     private void cikisAlert(){
-        DialogInterface.OnClickListener negativeButtonClickListener = new DialogInterface.OnClickListener() {
-            public void onClick(DialogInterface dialog, int which) {
-                finish();
-            }
-        };
-
-        DialogInterface.OnClickListener positiveButtonClickListener = new DialogInterface.OnClickListener() {
-            public void onClick(DialogInterface dialog, int which) {
-                dialog.dismiss();
-            }
-        };
-
-
-        AlertUtil.alertGoster(ListeActivity.this, R.style.AlertDialogTheme,getResources().getDrawable(R.drawable.exiticon), getResources().getString(R.string.alertCikisTitle), getResources().getString(R.string.alertCikisMessage), getResources().getString(R.string.alertCikisNegativeButon), getResources().getString(R.string.alertCikisPozitifButon), positiveButtonClickListener, negativeButtonClickListener);
+        PrefUtil.setStringPref(getApplicationContext(), Constants.PREF_ALERT_SECILEN,Constants.PREF_ALERT_CIKIS);
+        AlertUtil.alertGoster(ListeActivity.this, R.style.AlertDialogTheme,getResources().getDrawable(R.drawable.exiticon), getResources().getString(R.string.alertCikisTitle), getResources().getString(R.string.alertCikisMessage), getResources().getString(R.string.alertCikisNegativeButon), getResources().getString(R.string.alertCikisPozitifButon));
 
     }
 }
