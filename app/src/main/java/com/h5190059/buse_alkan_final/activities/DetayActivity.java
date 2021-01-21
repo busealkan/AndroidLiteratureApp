@@ -16,7 +16,7 @@ import com.h5190059.buse_alkan_final.utils.ObjectUtil;
 
 public class DetayActivity extends AppCompatActivity {
     ImageView imgKapak;
-    TextView txtBaslik,txtHayatIcerik,txtEdebiIcerik,txtEserIcerik;
+    TextView txtBaslik,txtHayati,txtHayatIcerik,txtEdebi,txtEdebiIcerik,txtEser,txtEserIcerik;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -27,8 +27,11 @@ public class DetayActivity extends AppCompatActivity {
     private void init() {
         imgKapak=findViewById(R.id.imgKapak);
         txtBaslik=findViewById(R.id.txtBaslik);
+        txtHayati=findViewById(R.id.txtHayati);
         txtHayatIcerik=findViewById(R.id.txtHayatIcrk);
+        txtEdebi=findViewById(R.id.txtEdebi);
         txtEdebiIcerik=findViewById(R.id.txtEdebiIcrk);
+        txtEser=findViewById(R.id.txtEser);
         txtEserIcerik=findViewById(R.id.txtEserIcrk);
         yazarBilgileriGetir();
     }

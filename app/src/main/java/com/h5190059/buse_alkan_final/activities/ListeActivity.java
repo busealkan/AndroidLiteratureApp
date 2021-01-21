@@ -9,6 +9,7 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
+import android.widget.ImageView;
 
 
 import com.h5190059.buse_alkan_final.R;
@@ -32,6 +33,7 @@ import io.reactivex.schedulers.Schedulers;
 public class ListeActivity extends AppCompatActivity {
 
     RecyclerView recyclerView;
+    ImageView imgBanner;
     ProgressDialog progressDialog;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -41,6 +43,8 @@ public class ListeActivity extends AppCompatActivity {
     }
 
     private void init() {
+        recyclerView = findViewById(R.id.rcvYazarlar);
+        imgBanner = findViewById(R.id.imgBanner);
         progressDialog = ProgressUtil.progressDialogOlustur(ListeActivity.this,getResources().getString(R.string.progressMessage));
         yazarlariGetir();
     }
