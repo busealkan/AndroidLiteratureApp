@@ -42,7 +42,7 @@ public class DetayActivity extends AppCompatActivity {
 
         txtBaslik.setText(yazarModel.getYazarAdi());
         txtHayatIcerik.setText(yazarModel.getDetayHayati());
-        txtEserIcerik.setText(yazarModel.getYazarEserleri());
+        txtEserIcerik.setText(yazarModel.getDetayEserleri());
 
         GlideUtil.resmiIndiripGoster(getApplicationContext(),yazarModel.getKapakFotoUrl(),imgKapak);
         htmlDataGetir(yazarModel);

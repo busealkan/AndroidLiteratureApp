@@ -34,6 +34,7 @@ public class AlertUtil {
                 if(PrefUtil.getStringPref(activity.getApplicationContext(),Constants.PREF_ALERT_SECILEN).equals(Constants.PREF_ALERT_INTERNET)){
                     dialog.dismiss();
                     activity.startActivity(new Intent(Settings.ACTION_SETTINGS));
+                    activity.finish();
                 }
                 else{
                     dialog.dismiss();
