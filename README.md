@@ -4,17 +4,17 @@ Bu projede Servet-i Fünun dönemindeki sanatçılar recyler viewlerde card item
 
 ## Outputs
 <p>
-  <img height="400" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E1_splash.png" alt="SS1"/>
-  <img height="400" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E2_liste.png" alt="SS2"/>
-  <img height="400" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E3_detay.png" alt="SS3"/>
-  <img height="400" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_internet.png" alt="SS4"/>
-  <img height="400" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_cikis.png" alt="SS5"/>
+  <img height="400" width="250" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E1_splash.png" alt="SS1"/>
+  <img height="400" width="250" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E2_liste.png" alt="SS2"/>
+  <img height="400" width="250" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E3_detay.png" alt="SS3"/>
+  <img height="200" width="250" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_internet.png" alt="SS4"/>
+  <img height="200" width="250" src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_cikis.png" alt="SS5"/>
 </p>
-
 
 
 ## Clean Simple Architecture
 <p><img align="left" width="244px"; src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/images/mvc.png"/></p>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Libraries and Tools 
 <li><a href="https://square.github.io/retrofit/">Retrofit2</a></li>
