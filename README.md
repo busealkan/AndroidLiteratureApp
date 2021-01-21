@@ -3,14 +3,18 @@
 Bu projede Servet-i Fünun dönemindeki sanatçılar recyler viewlerde card itemlar kullanılarak listelenmiştir ayrıca detay sayfamızda hayatları,edebi kişilikleri ve bazı   eserleri hakkında bilgiler verilmiştir.
 
 ## Outputs
-<p><img align="left" width="244px"; src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E1_splash.png"/></p>
-<p><img align="left" width="244px"; src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E2_liste.png"/></p>
-<p><img align="left" width="244px"; src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E3_detay.png"/></p>
-<p><img align="left" width="244px"; src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_internet.png"/><p> 
-<p><img align="left" width="244px"; src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_cikis.png"/></p>
+<p>
+  <img height="400"  src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E1_splash.png"/>
+  <img height="400"  src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E2_liste.png"/>
+  <img height="400"  src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/E3_detay.png"/>
+  <img height="400"  src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_internet.png"/>
+  <img height="400"  src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/screens/alert_cikis.png"/>
+</p>
+
+
 
 ## Clean Simple Architecture
-<p><img width="244px"; src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/images/mvc.png"/></p>
+<p><img align="left" width="244px"; src="https://raw.githubusercontent.com/busealkan/h5190059busealkan/master/images/mvc.png"/></p>
 
 ## Libraries and Tools 
 <li><a href="https://square.github.io/retrofit/">Retrofit2</a></li>
