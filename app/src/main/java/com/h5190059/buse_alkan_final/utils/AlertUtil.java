@@ -33,7 +33,7 @@ public class AlertUtil {
             public void onClick(DialogInterface dialog, int which) {
                 if(PrefUtil.getStringPref(activity.getApplicationContext(),Constants.PREF_ALERT_SECILEN).equals(Constants.PREF_ALERT_INTERNET)){
                     dialog.dismiss();
-                    ayarlaraGit(activity);
+                    activity.startActivity(new Intent(Settings.ACTION_SETTINGS));
                 }
                 else{
                     dialog.dismiss();
@@ -43,13 +43,4 @@ public class AlertUtil {
         builder.show();
 
     }
-
-    private static void ayarlaraGit(Activity activity) {
-        Intent ayarlarIntent = new Intent(Settings.ACTION_SETTINGS);
-        activity.startActivity(ayarlarIntent);
-        activity.finish();
-    }
-
-
-
 }
